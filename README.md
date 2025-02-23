@@ -1,7 +1,6 @@
 <h1 align="center">Hi There</h1>
 <h3 align="center">A passionate software/data engineer from Brazil</h3>
 
-- 🌱 I’m currently learning **Akka Framework**
 
 - 💬 Ask me about **Kafka, Scala, Python, Spark**
 
